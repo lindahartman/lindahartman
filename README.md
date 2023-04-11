@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lindahartman
 - 👀 I’m interested in statistics and sustainability
-- 🌱 I’m currently learning Git, Github and Python
+- 🌱 I’m currently learning Git, Github and Python and ever improving in R
 - 💞️ I’m looking to collaborate on Stats for Sustainability
 - 📫 How to reach me linda.hartman@matstat.lu.se
 
